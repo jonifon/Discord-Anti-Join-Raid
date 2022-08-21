@@ -5,4 +5,5 @@
 ```
 pip install discord.py
 ```
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+## Replace these lines to make the bot work.
+![This is an image](https://imgur.com/a/gAgdex5)
