@@ -6,4 +6,4 @@
 pip install discord.py
 ```
 ## Replace these lines to make the bot work.
-![This is an image](https://imgur.com/a/gAgdex5)
+![This is an image](https://i.imgur.com/dlUprwn.png)
